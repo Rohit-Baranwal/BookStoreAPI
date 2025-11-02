@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreAPI", "BookStoreAPI\BookStoreAPI.csproj", "{EBAC3CAA-5229-4525-9DCC-039DE9A204C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{97683F3C-CAD6-4F94-97AC-26EDF88C2EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBAC3CAA-5229-4525-9DCC-039DE9A204C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAC3CAA-5229-4525-9DCC-039DE9A204C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAC3CAA-5229-4525-9DCC-039DE9A204C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAC3CAA-5229-4525-9DCC-039DE9A204C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97683F3C-CAD6-4F94-97AC-26EDF88C2EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97683F3C-CAD6-4F94-97AC-26EDF88C2EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97683F3C-CAD6-4F94-97AC-26EDF88C2EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97683F3C-CAD6-4F94-97AC-26EDF88C2EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECAFC84F-EA13-413D-9F3D-E7E3F2166ABF}
+	EndGlobalSection
+EndGlobal
