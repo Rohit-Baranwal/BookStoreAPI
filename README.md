@@ -16,7 +16,7 @@ A RESTful ASP.NET Core Web API for managing books, members, and borrowing operat
 ## 🛠️ Technologies Used
 | Category | Technology |
 |-----------|-------------|
-| Backend | ASP.NET Core Web API (.NET 7 / .NET 8) |
+| Backend | ASP.NET Core Web API (.NET 9) |
 | ORM | Entity Framework Core |
 | Database | SQL Server |
 | Testing | xUnit, EFCore InMemory Provider |
