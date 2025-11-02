@@ -24,39 +24,6 @@ A RESTful ASP.NET Core Web API for managing books, members, and borrowing operat
 
 ---
 
-## 📂 Project Structure
-BookStoreAPI/
-│
-├── Controllers/
-│   ├── AuthController.cs
-│   ├── BookController.cs
-│   ├── MemberController.cs
-│   └── BorrowController.cs
-│
-├── Models/
-│   ├── Book.cs
-│   ├── Member.cs
-│   └── BorrowRecord.cs
-│
-├── Data/
-│   └── BookStoreContext.cs
-│
-├── DTOs/
-│   ├── BookCreateDto.cs
-│   ├── MemberCreateDto.cs
-│   ├── BorrowRequestDto.cs
-│   └── ReturnRequestDto.cs
-│
-├── Tests/
-│   └── BorrowControllerTests.cs
-│
-├── appsettings.json
-├── Program.cs
-└── README.md
-
-
----
-
 ## 🧭 How to Clone & Run Locally
 
 ### 1️⃣ Clone Repository
