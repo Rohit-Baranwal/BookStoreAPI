@@ -51,3 +51,17 @@ Update-Database
 ```
 ## 4. Run the application
 After that run the application by using `dotnet run ` command
+
+Then visit Swagger UI:
+👉 https://localhost:5001/swagger
+
+🔐 Authentication
+
+Use POST /api/auth/login
+
+Credentials (Demo):
+
+{ "username": "admin", "password": "password" }
+
+
+Copy the JWT token from response → click “Authorize” in Swagger → paste token to test secured APIs.
